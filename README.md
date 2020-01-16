@@ -1,7 +1,7 @@
 # awesome-indie
 Awesome indie like IT related websites
 
-- [CheckURL](https://checkurl.net/) - Check if URL is black listed at safe browsing db.
+- [CheckURL](https://checkurl.net/) - Check if URL is blacklisted at safe browsing db.
 - [DomainPrice.ME](https://domainprice.me/) - gTLD domain prices comparison.
 - [HonestlyReview](https://honestlyreview.com/) - Review of things.
 - [Mpaint.NET](https://mpaint.net/) - Easy web browser based paint like editor.
