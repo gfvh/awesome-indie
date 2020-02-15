@@ -11,6 +11,6 @@ Awesome indie like IT related websites
 - [Paste.OVH](https://paste.ovh/) - Encrypted paste and file upload.
 - [SetupExample](https://setupexample.com/) - Community driven how-to setup examples.
 - [ShareURL](https://shareurl.it/) - Professional url shortener.
-- [Giweather](https://giweather.net/) - Review of things.
+- [Giweather](https://giweather.net/) - Weather.
 - [Upload.Doctor](https://upload.doctor/) - File upload with 24h timelimit.
 - [WordpressAdmin](https://wordpressadmin.org/) - Free campaign how to make WP more secure.
